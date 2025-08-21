@@ -33,6 +33,9 @@ I'm passionate about building web applications, designing databases, and bringin
 
 ## 📫 Let's Connect
 
+[![Twitter](https://img.shields.io/badge/Twitter-@IcyXero-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/IcyXero)
+[![Instagram](https://img.shields.io/badge/Instagram-@icyxero-E4405F?logo=instagram&logoColor=white)](https://instagram.com/icyxero)
+
 Feel free to check out my repositories or reach out if you'd like to collaborate!
 
 ---
